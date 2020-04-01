@@ -1,2 +1,2 @@
 # react-metronome-app
-A metrnome UI using react
+A metronome UI using react
